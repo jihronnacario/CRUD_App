@@ -1,0 +1,3 @@
+just change connection string on "appsettings.json" according to your SQL Server, it will run only on .NET CORE 6 or visual studio 2022 and import the database "FamilyTreeDb.bacpac" to SQL server 
+
+connection string, "FamilyDbContext": "Data Source=JIHRON\\SQLEXPRESS01;Initial Catalog=FamilyTreeDb;Integrated Security=True; MultipleActiveResultSets=True;TrustServerCertificate=True"
